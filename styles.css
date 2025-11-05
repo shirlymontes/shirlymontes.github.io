@@ -37,6 +37,23 @@ nav {
   box-sizing: border-box;
 }
 
+nav.sticky {
+  position: fixed;
+  top: 1rem; 
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80%; 
+  max-width: 1350px;
+  background: #fff;
+  border: 3px solid var(--yellow);
+  border-radius: 40px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+  z-index: 9999;
+  transition: all 0.3s ease;
+}
+
+
+
 /* Responsive logo */
 nav .logo img {
   width: clamp(10px, 4vw, 35px); 
