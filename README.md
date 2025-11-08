@@ -5,7 +5,7 @@
 
 ---
 
-## roject Overview
+## Project Overview
 This project is a **personal portfolio website** developed as part of my coursework.  
 Its primary goal is to build a responsive, accessible, and aesthetically pleasing online portfolio that demonstrates my technical and creative abilities in front-end development and design.  
 
