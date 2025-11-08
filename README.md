@@ -25,12 +25,10 @@ The site serves as a foundational step toward establishing my professional ident
 ## Scope
 The website includes the following key sections:
 
-| Section | Description |
-|----------|-------------|
-| **Home (Hero)** | Introduces the developer with a tagline and a call-to-action button. |
-| **Projects** | Currently includes placeholder cards; planned to feature real projects in future iterations. |
-| **Skills** | Displays core technical and design skills using responsive icons and layout. |
-| **Contact** | Contains a simple form and social media links for inquiries and networking. |
+**Home (Hero)** - Introduces the developer with a tagline and a call-to-action button. 
+**Projects** - Currently includes placeholder cards; planned to feature real projects in future iterations. 
+**Skills** - Displays core technical and design skills using responsive icons and layout. 
+| **Contact** - Contains a simple form and social media links for inquiries and networking. 
 
 ---
 
